@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "tk",
+    "password": null,
+    "database": "tk_makeup",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
