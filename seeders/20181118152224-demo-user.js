@@ -19,7 +19,7 @@ function generateSeedData(days) {
           mm = '0'+mm
       } 
 
-      day = dd + '/' + mm + '/' + yyyy;
+      day = yyyy + '-' + mm + '-' + dd ;
         
       output.push({
           date: day,
